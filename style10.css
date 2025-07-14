@@ -1,0 +1,29 @@
+#b1
+{
+	border-color: black;
+	height:500px;
+	width:500px;
+}
+#a1
+{
+	text-align: center;
+	background: skyblue;
+	border-width:0px 0px 5px 0px;
+	border-color:white;
+}
+#a3
+{
+	background: greenyellow;
+	height:200px;
+	text-align:center;
+}
+#a4
+{
+	height:200px;
+	background:yellow;
+	text-align:center;
+}
+#a5
+{
+	height:100px;
+}

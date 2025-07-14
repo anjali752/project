@@ -1,0 +1,39 @@
+#a1
+{
+	height:600px;
+	width:800px;
+	border-style:solid;
+	border-color:grey;
+	border-width:25px 15px 5px 25px;
+}
+#a2
+{
+	background:deeppink;
+	width:800px;
+	height:150px;
+}
+#a3
+{
+	height:50px;
+	width:800px;
+	background: yellowgreen;
+}
+#a4
+{
+	height:350px;
+	width:200px;
+	background:lightseagreen;
+}
+#a5
+{
+	height:350px;
+	width:600px;
+	background: orange;
+}
+#a6
+{
+	height:50px;
+	width:800px;
+	background:forestgreen;
+
+}

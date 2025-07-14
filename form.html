@@ -1,0 +1,81 @@
+<html>
+<head>
+	<title>form</title>
+</head>
+<body>
+	<form>
+	<fieldset>
+		<legend>enquiry form<b></legend>
+		<label>name </label><br>
+		<input type="text" required minlength=4 maxlength=15 placeholder="enter name">
+		<br><br>
+		<label>email</label><br>
+		<input type="text" placeholder="enter email">
+		<br><br>
+		<label>phone no</label><br>
+		<input type="tel" pattern="[0-9]{10}" placeholder="enter number">
+		<br><br>
+		<label>message</label><br>
+		<input type="text" placeholder="enter message"> 
+		<br><br>
+		<label>gender</label><br>
+		<label>male</label>
+		<input type="radio">
+		<label>female</label>
+		<input type="radio"><br><br>
+		<label>country</label></br>
+		<select>
+			<option> select country</option>
+			<option value="india">india</option>
+			<option value="usa">usa</option>
+			<option value="russia">russia</option>
+			<option value="pakistan">pakistan</option>
+			<option value="china">china</option>
+			<option value="indonessia">indonessia</option>
+			<option value="ukrain">ukrain</option>
+			<option value="america">america</option>
+			<option value="austrelia">austrelia</option>
+			<option value="japan">japan</option>
+		<button type="submit">save</button>
+	</select><br><br>
+	<label>course</label>
+	<select>
+		<optgroup label="frontend">
+			<option>html</option>
+			<option>css</option>
+			<option>js</option>
+		</optgroup>
+		<optgroup label="backend">
+			<option>php</option>
+			<option>node</option>
+			<option>mysql</option>
+		</optgroup>
+	</select>
+	<br><br>
+	qty<br>
+	<input type="number" min="1" max="10" />
+	<br><br>
+	date<br>
+	<input type="date" /><br><br>
+	time<br>
+	<input type="time" /><br><br>
+	week<br>
+	<input type="week" /><br><br>
+	month<br>
+	<input type="month" /><br><br>
+	<label>day</label><br>
+	<select>
+		<option value="sunday">sunday</option>
+		<option value="monday">monday</option>
+		<option value="tuesday">tuesday</option>
+		<option value="wednesday">wednesday</option>
+		<option value="thursday">thursday</option>
+		<option value="friday">friday</option>
+		<option value="saturday">saturday</option>
+	</select><br><br>
+		<input type="submit" value="save">
+		<input type="submit" value="go">
+	</form>
+</fieldset>
+</body>
+</html>

@@ -1,0 +1,26 @@
+#a4
+{
+	height:200px;
+	width:200px;
+	border:20px solid pink;
+	border-radius:10px;
+}
+#a1
+{
+	background:blueviolet;
+	color:pink;
+	text-transform: uppercase;
+}
+#a2
+{
+	background:pink;
+	color:grey;
+	text-transform: lowercase;
+	border-radius:5px;
+}
+#a3
+{
+	background:greenyellow;
+	color:black;
+	border:5px dotted red;
+}

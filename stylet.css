@@ -1,0 +1,22 @@
+		.h12{
+			height:50px;
+			width:300px;
+			background: white;
+			
+			padding-left:10px;
+			box-sizing: border-box;
+			float: left;
+		}
+		.h12 ul{
+			display:flex;
+			gap:15px;
+		}
+		.h12 ul li{
+			display: flex;
+           
+			align-items: center;
+			font-size: 10px;
+			flex-direction: column;
+			gap: 3px;
+			
+		}

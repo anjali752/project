@@ -1,0 +1,34 @@
+#a1
+{
+ text-align:center;
+ background:orange;
+}
+
+#a2
+{
+	background:skyblue;
+	text-align:center;
+	width:50%;
+}
+#a3
+{
+	background:lightgreen;
+	text-align: center;
+	
+}
+#a4
+{
+ background:lightpink;
+ width:33%;
+
+}
+#a5
+{
+	background:lightyellow;
+	width:33%;
+}
+#a6{
+	background:plum;
+	width:33%;
+}
+
